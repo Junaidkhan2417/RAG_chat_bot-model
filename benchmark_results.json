@@ -6,7 +6,7 @@
     "score": 0.95,
     "context_count": 3,
     "passed": true,
-    "latency": 0.012590885162353516
+    "latency": 0.01927042007446289
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "score": 0.95,
     "context_count": 3,
     "passed": true,
-    "latency": 0.004580259323120117
+    "latency": 0.01557302474975586
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "score": 0.95,
     "context_count": 3,
     "passed": true,
-    "latency": 0.00458836555480957
+    "latency": 0.00797414779663086
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "score": 0.95,
     "context_count": 3,
     "passed": true,
-    "latency": 0.004236698150634766
+    "latency": 0.01302790641784668
   },
   {
     "id": 5,
@@ -42,6 +42,6 @@
     "score": 0.0,
     "context_count": 3,
     "passed": true,
-    "latency": 0.00518488883972168
+    "latency": 0.014036417007446289
   }
 ]
