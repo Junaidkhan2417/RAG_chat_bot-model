@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "query": "What is Agentic AI according to the eBook?",
+    "answer": "Based on the provided eBook: 2.2 Understanding the Building Blocks At the heart of every Agentic AI system lies a delicate interplay of key elements:  The interaction between the agent, its environment, and its actions forms the  foundation of agentic AI. The environment can be static or dynamic, and the agent  can be reactive ...",
+    "score": 0.95,
+    "context_count": 3,
+    "passed": true,
+    "latency": 0.012590885162353516
+  },
+  {
+    "id": 2,
+    "query": "How do AI agents differ from traditional automation systems?",
+    "answer": "Based on the provided eBook: Foundational Agents Workflow Agents Utility Agents  Planner Agent  Verifier Agent  Moderation Agent Web Navigation Agent  API Agent Coding Agent  Report Generation  Agent  Communications  Agent  Executor Agent  2.5 Types of Atomic Agents   While there are several ways to categorize the different typ...",
+    "score": 0.95,
+    "context_count": 3,
+    "passed": true,
+    "latency": 0.004580259323120117
+  },
+  {
+    "id": 3,
+    "query": "What are the core components of an Agentic Architecture?",
+    "answer": "Based on the provided eBook: 2.2 Understanding the Building Blocks At the heart of every Agentic AI system lies a delicate interplay of key elements:  The interaction between the agent, its environment, and its actions forms the  foundation of agentic AI. The environment can be static or dynamic, and the agent  can be reactive ...",
+    "score": 0.95,
+    "context_count": 3,
+    "passed": true,
+    "latency": 0.00458836555480957
+  },
+  {
+    "id": 4,
+    "query": "What role does memory play in Agentic AI workflows?",
+    "answer": "Based on the provided eBook: In this section, we will define what Agentic AI is and, more importantly,  what it’s not, as it’s often misunderstood. While Agentic AI promises a  shift from reactive to proactive problem-solving, doubts remain. Is it truly  real? Are all the claims about it accurate?  In this section, we cover the...",
+    "score": 0.95,
+    "context_count": 3,
+    "passed": true,
+    "latency": 0.004236698150634766
+  },
+  {
+    "id": 5,
+    "query": "Who won the 2022 FIFA World Cup?",
+    "answer": "I cannot answer based on the provided document.",
+    "score": 0.0,
+    "context_count": 3,
+    "passed": true,
+    "latency": 0.00518488883972168
+  }
+]
